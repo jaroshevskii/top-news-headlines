@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 16px;
+    padding-bottom: 256px;
+    max-width: 1024px;
+    margin-inline: auto;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .news-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+  }
+
+  .news-card {
+    cursor: pointer;
+  }
+
+  .news-card,
+  .region-select {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 8px;
+  }
+
+  .region-select-container {
+    margin-block: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .region-select {
+    padding: 4px;
+    margin-inline: 4px
+  }
