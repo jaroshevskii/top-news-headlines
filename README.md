@@ -1,3 +1,5 @@
+<img width="1324" alt="image" src="https://github.com/user-attachments/assets/cf1a3375-c613-4186-a8a3-7109d30905f3" />
+
 # Top News Headlines
 
 [Top News Headlines](https://jaroshevskii.github.io/top-news-headlines/) is a website that displays news headlines from around the world using the [News API](https://newsapi.org/).
